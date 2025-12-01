@@ -111,7 +111,7 @@
 ###
 
 <div align="center">
-  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DrkGodEater9&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrkGodEater&langs_count=8" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=DrkGodEater9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
